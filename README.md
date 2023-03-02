@@ -1,4 +1,1 @@
 # home
-# blog
-# book
-# about
